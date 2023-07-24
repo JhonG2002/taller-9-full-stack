@@ -5,6 +5,9 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<h3>Link Pagina Web</h3>
+<a href="https://jhong2002.github.io/taller-9-full-stack/" target="_blank">Link pagina web</a>
+
 <h2> Punto 1: Link figma</h2>
 
 <a href="https://www.figma.com/file/kfGZwL9ZwtHzS011H2KXf0/jhon-Gonzalez---Figma-Excesice?type=design&node-id=0%3A1&mode=design&t=NRw1xPmHaHStW62Z-1" target="_blank">Link de Figma</a>
@@ -20,7 +23,7 @@
 
 <h2>Punto 5: ESTILOS DE TEXTO</h2>
 <img src="./public/images/Taller-punto-5.png" alt="Estilos de texto">
-
+ 
 <h2>Punto 6: ENLACES</h2>
 <img src="./public/images/Taller-punto-6.png" alt="Enlaces">
 
