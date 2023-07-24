@@ -1,0 +1,28 @@
+body{
+    text-align: left;
+    margin: 25px 280px;
+}
+#primera{
+    color: green;
+}
+#segunda{
+    color: red;
+    text-decoration: none;
+}
+#tercera{
+    text-decoration-line: underline overline;
+}
+p b{
+    font-size: 50px;
+    text-decoration: none;
+}
+.negrita{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.color{
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+body{
+    text-align: left;
+    margin: 25px 280px;;
+}
+.marca{
+    color: gold;
+    text-decoration-line: underline;
+}
+.as{
+    color: blueviolet;
+    text-decoration-line: underline;
+}

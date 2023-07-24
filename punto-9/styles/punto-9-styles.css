@@ -1,0 +1,19 @@
+.table{
+   width: 800px;
+   border-collapse:collapse ;
+   border: 1px dotted;
+   background-color: yellow;
+}
+.table thead{
+    justify-content: center;
+    color: red;
+}
+td{
+    border: 1px dotted;
+}
+caption{
+    background-color: yellow;
+    caption-side: bottom;
+    border: 1px dotted;
+    border-bottom: red 1px dotted;
+}
